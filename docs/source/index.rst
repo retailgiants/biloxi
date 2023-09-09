@@ -41,5 +41,6 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 1
 
    car-wash/index
