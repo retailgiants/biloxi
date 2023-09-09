@@ -2,7 +2,7 @@
 Top Retail Stores in Biloxi, Mississippi
 =====================================
 
-Biloxi, nestled on the Mississippi coast, combines historical charm with a mix of national chain retailers and unique local stores. Here's a look at some of the premier shopping destinations in Biloxi as of 2021:
+Biloxi, nestled on the Mississippi coast, combines historical charm with a mix of national chain retailers and unique local stores. Here's a look at some of the premier shopping destinations in Biloxi compiled by `Retail Giants <https://retailgiants.github.io/>`_:
 
 1. **Edgewater Mall**
    - As the Mississippi Gulf Coast's primary mall, it offers an array of regional and national stores. Anchor stores may encompass Dillard's, Belk, and JCPenney.
