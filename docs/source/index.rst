@@ -45,5 +45,5 @@ Contents
 
    index
    car-wash/index
-   kid-friendly-axtivities/index
+   kid-friendly-activities/index
    best-crab/index
