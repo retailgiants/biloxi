@@ -2,7 +2,7 @@
 Popular Car Wash Spots in Biloxi, MS
 =====================================
 
-Car enthusiasts and everyday drivers alike know the value of a good car wash. Below are some of the most renowned `car wash spots <https://www.auto.or.id/7-best-car-wash-near-biloxi-ms/>`_ in Biloxi, MS.
+Car enthusiasts and everyday drivers alike know the value of a good car wash. Below are some of the most renowned `car wash spots <https://www.yelp.com/search?cflt=carwash&find_loc=Biloxi%2C+MS>`_ in Biloxi, MS.
 
 Coastal Car Wash
 ----------------
